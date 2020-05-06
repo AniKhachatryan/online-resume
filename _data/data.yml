@@ -113,11 +113,11 @@ experiences:
           details: |
             + Worked with and analyzed scRNA-seq and neurodevelopmental disorder risk gene data
             + Proved the hypothesis that highly expressed RBP-regulated genes are more likely to be risk genes of neurodevelopmental disorders
-    
+        
         - role: Data Scientist
           time: 2018.04 - 2018.09
           company: Synopsys, Inc.
-          location: Yerevan, Armeni
+          location: Yerevan, Armenia
           details: |
             + Created efficient automated pipelines to analyze data and generate reports with meaningful visualizations that were used by management to inform important company decisions
         

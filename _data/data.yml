@@ -73,9 +73,8 @@ education:
           major: Biomedical Informatics
           degree: Master
           details: |
-            Experience in this university:
-            + First
-            + Second
+          + Highlighted coursework: Applied Deep Learning, Statistical Inference, Algorithms for Data Science, Computational Methods, Biological Sequence Analysis. 
+          + GPA: 3.94/4.00
             
             ...
         

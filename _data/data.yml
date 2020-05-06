@@ -58,11 +58,8 @@ profile:
     display: true
     title: Profile
     details: |
-      It's your career profile, you can wirte markdown format text.
-      + First
-      + Second
+        Bioinformatics Researcher/Analyst with a master's degree in Biomedical Informatics from Columbia University.
 
-      ...
 
 education:
     display: true
@@ -76,10 +73,7 @@ education:
             + Recipient of the My Step Foundation and AGBU US Graduate Scholarships.
             + GPA: 3.94/4.00
             + Highlighted coursework: Applied Deep Learning, Statistical Inference, Algorithms for Data Science, Computational Methods, Biological Sequence Analysis. 
-           
-            
-            ...
-        
+
         - university: Yerevan State University
           time: 2014 - 2018
           major: Biophysics
@@ -87,8 +81,6 @@ education:
           details: |
             + Recipient of the Armenian Government Excellence Scholarship for all academic years.
             + GPA: 3.83/4.00
-            
-            ...
             
         - university: University of Memphis
           time: 2014 - 2018
@@ -100,7 +92,7 @@ education:
             + GPA: 4.00/4.00
             + Highlighted coursework: Data Visalization with R, Survey of Bioinformatics and Functional Genomics
             
-            ...
+            
 experiences:
     display: true
     title: Experiences
@@ -110,48 +102,36 @@ experiences:
           company: Columbia University
           location: New York, NY
           details: |
-            Experience in this company:
             + Worked with and analyzed scRNA-seq and neurodevelopmental disorder risk gene data
             + Proved the hypothesis that highly expressed RBP-regulated genes are more likely to be risk genes of neurodevelopmental disorders
-            ...
-        
+
         - role: Data Scientist
           time: 2018.04 - 2018.09
           company: Synopsys Armenia CJSC
           location: Yerevan, Armenia
           details: |
-            Experience in this company:
             + Created efficient automated pipelines to analyze data and generate reports with meaningful visualizations that were used by management to inform important company decisions
-            ...
-            
+ 
         - role: Bioinformatics Researcher
           time: 2015.10 - 2016.12
           company: Institute of Molecular Biology NAS
           location: Yerevan, Armenia
           details: |
-            Experience in this company:
             + Used the mutual information (MI) metric to find co-evolving sites in protein multiple sequence alignments
             + Demonstrated as a proof-of-concept that co-evolving sites can be used to guide the search for compensational mutations for cancer, thus reducing wet lab costs
             + Was evaluated as “Excellent” at the end of the internship by my supervisor
-            ...
-           
+        
 projects:
     display: false
     title: Projects
     intro: |
-      This is all the projects I'm involved in.
+      Most of the projects that I have worked on I am not allowed to make public, but the ones that are public can be found on my GitHub.
     
     items:
-        - name: Foo
-          link: 
+        - name: GitHub Projects
+          link: https://github.com/AniKhachatryan?tab=repositories
           details: |
-            Project Foo's detail, you can write markdown format text.
-
-        - name: Bar
-          link: 
-          details: |
-            Project Bar's detail, you can write markdown format text.
-
+          
 publications:
     display: false
     title: Publications

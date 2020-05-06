@@ -111,8 +111,8 @@ experiences:
           location: New York, NY
           details: |
             Experience in this company:
-            + First
-            + Second
+            + Worked with and analyzed scRNA-seq and neurodevelopmental disorder risk gene data
+            + Proved the hypothesis that highly expressed RBP-regulated genes are more likely to be risk genes of neurodevelopmental disorders
             ...
         
         - role: Data Scientist
@@ -121,8 +121,7 @@ experiences:
           location: Yerevan, Armenia
           details: |
             Experience in this company:
-            + First
-            + Second
+            + Created efficient automated pipelines to analyze data and generate reports with meaningful visualizations that were used by management to inform important company decisions
             ...
             
         - role: Bioinformatics Researcher
@@ -131,8 +130,9 @@ experiences:
           location: Yerevan, Armenia
           details: |
             Experience in this company:
-            + First
-            + Second
+            + Used the mutual information (MI) metric to find co-evolving sites in protein multiple sequence alignments
+            + Demonstrated as a proof-of-concept that co-evolving sites can be used to guide the search for compensational mutations for cancer, thus reducing wet lab costs
+            + Was evaluated as “Excellent” at the end of the internship by my supervisor
             ...
            
 projects:
@@ -175,10 +175,10 @@ skills:
     details: |
       + Python (proficient): tensorflow, keras, pytorch, pandas, numpy, scipy, matplotlib, biopython, etc.
       + R (proficient): ggplot, dplyr, bioconductor, seurat, etc.
+      + Cytoscape
       + UNIX/LINUX, Bash
       + SQL
       + Git/GitHub
-      + Cytoscape
       + C/C++ (beginner)
 
 evaluation:

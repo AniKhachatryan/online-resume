@@ -112,14 +112,23 @@ experiences:
           details: |
             + Created efficient automated pipelines to analyze data and generate reports with meaningful visualizations that were used by management to inform important company decisions
  
+        - role: Bioinformatics Intern
+          time: 2017.07 - 2017.09
+          company: Harvard University
+          location: Cambridge, MA
+          details: |
+            + Used the mutual information (MI) metric to find co-evolving sites in protein multiple sequence alignments
+            + Demonstrated as a proof-of-concept that co-evolving sites can be used to guide the search for compensational mutations for cancer, thus reducing wet lab costs
+            + Was evaluated as “Excellent” at the end of the internship by my supervisor
+        
         - role: Bioinformatics Researcher
           time: 2015.10 - 2016.12
           company: Institute of Molecular Biology NAS
           location: Yerevan, Armenia
           details: |
-            + Used the mutual information (MI) metric to find co-evolving sites in protein multiple sequence alignments
-            + Demonstrated as a proof-of-concept that co-evolving sites can be used to guide the search for compensational mutations for cancer, thus reducing wet lab costs
-            + Was evaluated as “Excellent” at the end of the internship by my supervisor
+            + Ran in silico biological pathway simulations with microarray gene expression data using Cytoscape and R
+            + Demonstrated as a proof-of-concept that it is possible to hypothesize about likely disease mechanisms using healthy and perturbed biological pathways
+            + Presented my research as a poster at a Systems Biology conference at Cold Spring Harbor Laboratory
         
 projects:
     display: false

@@ -105,20 +105,30 @@ experiences:
     display: true
     title: Experiences
     items:
-        - role: Backend Developer
-          time: 2018.03 - 2019.03
-          company: Second Company
-          location: Beijing
+        - role: Master's Thesis
+          time: 2020.01 - 2020.05
+          company: Columbia University
+          location: New York, NY
           details: |
             Experience in this company:
             + First
             + Second
             ...
         
-        - role: Backend Developer
-          time: 2017.03 - 2018.03
-          company: First Company
-          location: Beijing
+        - role: Data Scientist
+          time: 2018.04 - 2018.09
+          company: Synopsys Armenia CJSC
+          location: Yerevan, Armenia
+          details: |
+            Experience in this company:
+            + First
+            + Second
+            ...
+            
+        - role: Bioinformatics Researcher
+          time: 2015.10 - 2016.12
+          company: Institute of Molecular Biology NAS
+          location: Yerevan, Armenia
           details: |
             Experience in this company:
             + First

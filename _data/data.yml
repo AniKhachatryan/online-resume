@@ -1,42 +1,58 @@
 intro:
-    name: Foo Bar
-    title: Backend Developer
+    name: Ani Khachatryan
+    title: Bioinformatician
     avatar:
         display: true
         path: profile.png
 
 contact:
-    email: me@example.com
-    phone: +86-111-1111-1111
+    email: ani.d.khachatryan@gmail.com
+    phone: (+374)94 819305
     wechat: 
     telegram: 
-    website: https://example.com
-    linkedin: 
-    github: github
+    website:
+    linkedin: https://www.linkedin.com/in/ani-khachatryann/
+    github: https://github.com/AniKhachatryan
     gitlab: 
     bitbucket: 
-    twitter: twitter
+    twitter:
     stackoverflow: 
     codewars: 
-    goodreads: 
+    goodreads: https://www.goodreads.com/user/show/20736875-ani-khachatryan
 
 languages:
     display: true
     title: Languages
     items:
-        - idiom: Chinese
+        - idiom: Armenian
           level: Native
 
         - idiom: English
-          level: Professional
+          level: Fluent
+          
+        - idiom: Russian
+          level: Fluent
+          
+        - idiom: French
+          level: Intermediate
+          
+        - idiom: Spanish
+          level: Beginner (actively learning)
+          
+        - idiom: German
+          level: Beginner
+         
 
 interests:
     display: true
     title: Interests
     items:
         - item: Reading
-          link:
-        - item: Cooking
+          link: https://www.goodreads.com/user/show/20736875-ani-khachatryan
+        - item: Traveling
+          link: https://www.instagram.com/regularpersonani/
+        - item: Yoga
+        - item: Philosophy
     
 profile:
     display: true
@@ -52,9 +68,9 @@ education:
     display: true
     title: Education
     items:
-        - university: Example University
-          time: 2015 - 2018
-          major: Machine Learning
+        - university: Columbia University
+          time: 2018 - 2020
+          major: Biomedical Informatics
           degree: Master
           details: |
             Experience in this university:
@@ -63,9 +79,9 @@ education:
             
             ...
         
-        - university: Example University
-          time: 2011 - 2015
-          major: Computer Science
+        - university: Yerevan State University
+          time: 2014 - 2018
+          major: Biophysics
           degree: Bachelor
           details: |
             Experience in this university:
@@ -78,10 +94,10 @@ experiences:
     display: true
     title: Experiences
     items:
-        - role: Backend Developer
-          time: 2018.03 - 2019.03
-          company: Second Company
-          location: Beijing
+        - role: Data Scientist
+          time: 2018.04 - 2018.09
+          company: Synopsys, Inc.
+          location: Yerevan, Armeni
           details: |
             Experience in this company:
             + First
@@ -89,10 +105,10 @@ experiences:
 
             ...
         
-        - role: Backend Developer
-          time: 2017.03 - 2018.03
-          company: First Company
-          location: Beijing
+        - role: Bioinformatics Intern
+          time: 2017.07 - 2018.09
+          company: Harvard University
+          location: Cambridge, MA
           details: |
             Experience in this company:
             + First
@@ -118,7 +134,7 @@ projects:
             Project Bar's detail, you can write markdown format text.
 
 publications:
-    display: true
+    display: false
     title: Publications
     intro: |
       This is all the books I wrote.
@@ -139,8 +155,9 @@ skills:
     title: Skills
     details: |
       Here is my skills:
-      + First
-      + Second
+      + Python
+      + R
+      + sleeping 12 hours a day
 
       ...
 

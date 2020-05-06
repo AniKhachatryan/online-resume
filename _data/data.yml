@@ -3,7 +3,7 @@ intro:
     title: Bioinformatician
     avatar:
         display: true
-        path: profile.png
+        path: profile.jpg
 
 contact:
     email: ani.d.khachatryan@gmail.com
@@ -11,7 +11,9 @@ contact:
     wechat: 
     telegram: 
     website:
-    linkedin: https://www.linkedin.com/in/ani-khachatryann/
+    linkedin: 
+        - item: LinkedIn Profile
+          link: https://www.linkedin.com/in/ani-khachatryann/
     github: https://github.com/AniKhachatryan
     gitlab: 
     bitbucket: 

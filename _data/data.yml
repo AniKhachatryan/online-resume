@@ -113,8 +113,6 @@ experiences:
           details: |
             + Worked with and analyzed scRNA-seq and neurodevelopmental disorder risk gene data
             + Proved the hypothesis that highly expressed RBP-regulated genes are more likely to be risk genes of neurodevelopmental disorders
-
-            ...
     
         - role: Data Scientist
           time: 2018.04 - 2018.09
@@ -122,8 +120,6 @@ experiences:
           location: Yerevan, Armeni
           details: |
             + Created efficient automated pipelines to analyze data and generate reports with meaningful visualizations that were used by management to inform important company decisions
-
-            ...
         
         - role: Bioinformatics Intern
           time: 2017.07 - 2018.09
@@ -134,18 +130,16 @@ experiences:
             + Demonstrated as a proof-of-concept that co-evolving sites can be used to guide the search for compensational mutations for cancer, thus reducing wet lab costs
             + Was evaluated as “Excellent” at the end of the internship by my supervisor
 
-            ...
             
-          - role: Bioinformatics Researcher
-            time: 2015.10 - 2016.12
-            company: Insitute of Molecular Biology NAS
-            location: Yerevan, Armenia
-            details: |
-                + Ran in silico biological pathway simulations with microarray gene expression data using Cytoscape and R
-                + Demonstrated as a proof-of-concept that it is possible to hypothesize about likely disease mechanisms using healthy and perturbed biological pathways
-                + Presented my research as a poster at a Systems Biology conference at Cold Spring Harbor Laboratory
+         - role: Bioinformatics Researcher
+           time: 2015.10 - 2016.12
+           company: Insitute of Molecular Biology NAS
+           location: Yerevan, Armenia
+           details: |
+             + Ran in silico biological pathway simulations with microarray gene expression data using Cytoscape and R
+             + Demonstrated as a proof-of-concept that it is possible to hypothesize about likely disease mechanisms using healthy and perturbed biological pathways
+             + Presented my research as a poster at a Systems Biology conference at Cold Spring Harbor Laboratory
            
-            ...
 projects:
     display: false
     title: Projects
@@ -191,7 +185,6 @@ skills:
       + Git/GitHub
       + Cytoscape
       + C/C++ (beginner)
-      ...
 
 evaluation:
   display: false
@@ -200,8 +193,6 @@ evaluation:
     Here is my self evaluation.
     + First
     + Second
-
-    ...
 
 footer: 
   display: true

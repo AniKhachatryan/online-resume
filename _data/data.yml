@@ -89,19 +89,39 @@ education:
             + GPA: 3.83/4.00
             
             ...
+            
+        - university: University of Memphis
+          time: 2014 - 2018
+          major: Biophysics
+          degree: Non-degree Exchange Program
+          details: |
+            + Recipient of the prestigious Global UGRAD scholarship from the US Department of State.
+            + Dean's List; Global UGRAD Honor Roll
+            + GPA: 4.00/4.00
+            + Highlighted coursework: Data Visalization with R, Survey of Bioinformatics and Functional Genomics
+            
+            ...
 
-expeexperiences:
+experiences:
     display: true
     title: Experiences
     items:
+        - role: Master's Thesis
+          time: 2020.01 - 2020.05
+          company: Columbia University
+          location: New York, NY
+          details: |
+            + Worked with and analyzed scRNA-seq and neurodevelopmental disorder risk gene data
+            + Proved the hypothesis that highly expressed RBP-regulated genes are more likely to be risk genes of neurodevelopmental disorders
+
+            ...
+    
         - role: Data Scientist
           time: 2018.04 - 2018.09
           company: Synopsys, Inc.
           location: Yerevan, Armeni
           details: |
-            Experience in this company:
-            + First
-            + Second
+            + Created efficient automated pipelines to analyze data and generate reports with meaningful visualizations that were used by management to inform important company decisions
 
             ...
         
@@ -110,14 +130,24 @@ expeexperiences:
           company: Harvard University
           location: Cambridge, MA
           details: |
-            Experience in this company:
-            + First
-            + Second
+            + Used the mutual information (MI) metric to find co-evolving sites in protein multiple sequence alignments
+            + Demonstrated as a proof-of-concept that co-evolving sites can be used to guide the search for compensational mutations for cancer, thus reducing wet lab costs
+            + Was evaluated as “Excellent” at the end of the internship by my supervisor
 
             ...
+            
+          - role: Bioinformatics Researcher
+            time: 2015.10 - 2016.12
+            company: Insitute of Molecular Biology NAS
+            location: Yerevan, Armenia
+            details: |
+                + Ran in silico biological pathway simulations with microarray gene expression data using Cytoscape and R
+                + Demonstrated as a proof-of-concept that it is possible to hypothesize about likely disease mechanisms using healthy and perturbed biological pathways
+                + Presented my research as a poster at a Systems Biology conference at Cold Spring Harbor Laboratory
+           
 
 projects:
-    display: true
+    display: false
     title: Projects
     intro: |
       This is all the projects I'm involved in.
@@ -154,15 +184,17 @@ skills:
     display: true
     title: Skills
     details: |
-      Here is my skills:
-      + Python
-      + R
-      + sleeping 12 hours a day
-
+      + Python (proficient): tensorflow, keras, pytorch, pandas, numpy, scipy, matplotlib, biopython, etc.
+      + R (proficient): ggplot, dplyr, bioconductor, seurat, etc.
+      + UNIX/LINUX, Bash
+      + SQL
+      + Git/GitHub
+      + Cytoscape
+      + C/C++ (beginner)
       ...
 
 evaluation:
-  display: true
+  display: false
   title: Self-evaluation
   details: |
     Here is my self evaluation.
@@ -175,4 +207,4 @@ footer:
   display: true
 
 close: >
-  Sorry, my resume has been hidden. You can contanct me at me {at} example.com.
+  Sorry, my resume has been hidden. You can contanct me at me {at} ani.d.khachatryan@gmail.com.

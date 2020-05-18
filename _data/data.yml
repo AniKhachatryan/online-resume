@@ -2,7 +2,7 @@ intro:
     name: Ani Khachatryan
     title: Bioinformatician
     avatar:
-        display: false
+        display: true
         path: profile.jpg
 
 contact:
@@ -164,7 +164,7 @@ skills:
     details: |
       + Python (proficient): tensorflow, keras, pytorch, pandas, numpy, scipy, matplotlib, biopython, etc.
       + R (proficient): ggplot, dplyr, bioconductor, seurat, etc.
-      + Cytoscape
+      + Cytoscape, ClustalW, Galaxy
       + UNIX/LINUX, Bash
       + SQL
       + Git/GitHub

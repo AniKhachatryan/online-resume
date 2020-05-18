@@ -2,7 +2,7 @@ intro:
     name: Ani Khachatryan
     title: Bioinformatician
     avatar:
-        display: true
+        display: false
         path: profile.jpg
 
 contact:

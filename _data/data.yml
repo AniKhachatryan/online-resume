@@ -47,11 +47,12 @@ interests:
     display: false
     title: Interests
     items:
+        - item: Recreational Mathematics
         - item: Reading
           link: https://www.goodreads.com/user/show/20736875-ani-khachatryan
         - item: Traveling
           link: https://www.instagram.com/regularpersonani/
-        - item: Yoga
+        - item: Fitness (Running/Yoga)
         - item: Philosophy
     
 profile:
